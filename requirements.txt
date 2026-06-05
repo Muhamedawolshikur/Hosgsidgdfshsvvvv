@@ -1,3 +1,12 @@
 pyTelegramBotAPI
-pycryptodome
+pyrogram
+tgcrypto
+Telethon
+aiogram
+requests
+aiohttp
+python-dotenv
+beautifulsoup4
+pillow
 flask
+pycryptodome
